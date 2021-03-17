@@ -1,0 +1,552 @@
+@media only screen and (min-width : 100px) and (max-width : 575px) {
+.custcallus {
+	display: none;
+}
+.hdrmain {
+	padding: 10px 10px;
+}
+.custmiddleSec {
+	padding: 0 10px;
+}
+.bnrcontentmain::after {
+	left: -3%;
+	top: -6%;
+	height: 110%;
+	width: 210px;
+}
+.bnrcontentmain .custombtn {
+	margin: 40px 0 0 0;
+}
+.custWeAlways h2 {
+	margin: 0 0 30px 0;
+}
+.experience-box {
+	margin: 50px 0;
+}
+.experience-number {
+	font-size: 75px;
+}
+.experience-info {
+	font-size: 17px;
+	line-height: 22px;
+}
+.experience-border {
+	width: 155px;
+	height: 155px;
+}
+.experience-content {
+	left: -95px;
+}
+.custwhatwedo {
+	padding: 60px 0;
+}
+.custbox {
+	margin: 30px 0 10px 0;
+}
+.youneedhelp {
+	padding: 30px 0;
+}
+.custwhatwedoHead h2 {
+	margin: 0 0 20px 0;
+}
+.ftrlogo {
+	text-align: center;
+}
+.logo a img {
+	width: 180px;
+}
+.custnav .navbar-dark .navbar-toggler {
+	position: absolute;
+	top: -50px;
+	right: 0;
+}
+.custnav {
+	width: 100%;
+	float: left;
+	margin: 5px 0 0 0;
+}
+.custnav .navbar {
+	width: 100%;
+	padding: 0;
+}
+.custnav .navbar-nav {
+	margin: 0;
+}
+.custnav .navbar-collapse {
+	margin: 0px 0 0 0;
+}
+.custnav .navbar-expand-lg .navbar-nav .nav-link {
+	padding: 5px 20px;
+	border-top: 1px solid #fff;
+	font-size: 14px;
+}
+.bnrcontent {
+	padding: 100px 0;
+}
+.bnrcontentmain h1 {
+	font-size: 24px;
+	line-height: 30px;
+}
+.bnrcontentmain p {
+	font-size: 16px;
+	line-height: 27px;
+}
+.custBnr {
+	height: inherit;
+}
+.custWeAlways {
+	padding: 50px 0;
+}
+.custWeAlways h2 {
+	font-size: 25px;
+	line-height: 36px;
+}
+.learnHow {
+	padding: 50px 0;
+}
+.learnHowlft h2 {
+	font-size: 30px;
+}
+.custvideo {
+	margin: 20px 0;
+}
+.videoBox {
+	min-height: 300px;
+}
+.custftrTopLft {
+	padding: 0;
+}
+.custftrTopLft h2 {
+	font-size: 28px;
+	line-height: 35px;
+}
+.custftrTopLft p {
+	font-size: 16px;
+	line-height: 26px;
+}
+.custftrTopOverlay {
+	padding: 40px 0;
+}
+.custftrForm h3 {
+	font-size: 24px;
+}
+.custftrCopyright p {
+	text-align: center;
+	font-size: 14px;
+}
+.custftrCopyright ul {
+	text-align: center;
+}
+.custftrCopyright ul li {
+	margin: 10px 10px;
+}
+.custftrCopyright {
+	padding: 20px 0;
+}
+.custbdr {
+	margin: 20px 0;
+}
+.custombtn {
+	font-size: 18px;
+}
+.bnrcontentmain .custombtn {
+	font-size: 18px;
+}
+}
+@media only screen and (min-width : 576px) and (max-width : 767px) {
+.hdrmain {
+	padding: 20px 0;
+}
+.custmiddleSec {
+	padding: 0 15px;
+}
+.logo a img {
+	width: 180px;
+}
+.custnav .navbar-dark .navbar-toggler {
+	position: absolute;
+	top: -50px;
+	right: 0;
+}
+.custnav {
+	width: 100%;
+	float: left;
+	margin: 5px 0 0 0;
+}
+.custnav .navbar {
+	width: 100%;
+	padding: 0;
+}
+.custnav .navbar-nav {
+	margin: 0;
+}
+.custnav .navbar-collapse {
+	margin: 0px 0 0 0;
+}
+.custnav .navbar-expand-lg .navbar-nav .nav-link {
+	padding: 10px 20px;
+	border-top: 1px solid #fff;
+	font-size: 14px;
+}
+.bnrcontent {
+	padding: 100px 0;
+}
+.bnrcontentmain h1 {
+	font-size: 24px;
+	line-height: 30px;
+}
+.bnrcontentmain p {
+	font-size: 16px;
+	line-height: 27px;
+}
+.custBnr {
+	height: inherit;
+}
+.bnrcontentmain {
+	width: 90%;
+	float: right;
+}
+.custWeAlways {
+	padding: 50px 0;
+}
+.custWeAlways h2 {
+	font-size: 25px;
+	line-height: 36px;
+}
+.learnHow {
+	padding: 50px 0;
+}
+.learnHowlft h2 {
+	font-size: 30px;
+}
+.custvideo {
+	margin: 20px 0;
+}
+.videoBox {
+	min-height: 300px;
+}
+.custftrTopLft {
+	padding: 0;
+}
+.custftrTopLft h2 {
+	font-size: 28px;
+	line-height: 35px;
+}
+.custftrTopLft p {
+	font-size: 16px;
+	line-height: 26px;
+}
+.custftrTopOverlay {
+	padding: 40px 0;
+}
+.custftrForm h3 {
+	font-size: 24px;
+}
+.custftrCopyright p {
+	text-align: center;
+	font-size: 14px;
+}
+.custftrCopyright ul {
+	text-align: center;
+}
+.custftrCopyright ul li {
+	margin: 10px 10px;
+}
+.custftrCopyright {
+	padding: 20px 0;
+}
+.custbdr {
+	margin: 20px 0;
+}
+.custombtn {
+	font-size: 18px;
+}
+.bnrcontentmain .custombtn {
+	font-size: 18px;
+}
+.bnrcontentmain::after {
+	width: 190px;
+	height: 130%;
+}
+.bnrcontentmain .custombtn {
+	margin: 50px 0 0 0;
+}
+.custwhatwedo {
+	padding: 60px 0;
+}
+.youneedhelp {
+	padding: 40px 0 60px 0;
+}
+.custwhatwedoHead {
+	margin: 10px 0 20px 0;
+}
+.ftrlogo {
+	text-align: center;
+}
+}
+@media only screen and (min-width : 768px) and (max-width : 991px) {
+.logo a img {
+	width: 180px;
+}
+.custnav .navbar-dark .navbar-toggler {
+	position: absolute;
+	top: -50px;
+	right: 0;
+}
+.custnav {
+	width: 100%;
+	float: left;
+	margin: 5px 0 0 0;
+}
+.custnav .navbar {
+	width: 100%;
+	padding: 0;
+}
+.custnav .navbar-nav {
+	margin: 0;
+}
+.custnav .navbar-collapse {
+	margin: 0px 0 0 0;
+}
+.custnav .navbar-expand-lg .navbar-nav .nav-link {
+	padding: 10px 20px;
+	border-top: 1px solid #fff;
+	font-size: 14px;
+}
+.bnrcontent {
+	padding: 100px 0;
+}
+.bnrcontentmain h1 {
+	font-size: 24px;
+	line-height: 35px;
+}
+.bnrcontentmain p {
+	font-size: 16px;
+	line-height: 27px;
+}
+.custBnr {
+	min-height: inherit;
+}
+.custWeAlways {
+	padding: 50px 0;
+}
+.custWeAlways h2 {
+	font-size: 25px;
+	line-height: 36px;
+}
+.learnHow {
+	padding: 50px 0;
+}
+.learnHowlft h2 {
+	font-size: 30px;
+}
+.custvideo {
+	margin: 20px 0;
+}
+.videoBox {
+	min-height: 300px;
+}
+.custftrTopLft h2 {
+	font-size: 28px;
+	line-height: 35px;
+}
+.custftrTopLft p {
+	font-size: 16px;
+	line-height: 26px;
+}
+.custftrTopOverlay {
+	padding: 40px 0;
+}
+.custftrForm h3 {
+	font-size: 24px;
+}
+.custftrCopyright {
+	padding: 20px 0;
+}
+.custbdr {
+	margin: 20px 0;
+}
+.custombtn {
+	font-size: 18px;
+}
+.bnrcontentmain .custombtn {
+	font-size: 18px;
+}
+.custftrCopyright p {
+	margin: 10px 0 0 0;
+}
+.custBnr {
+	height: inherit;
+}
+.bnrcontentmain {
+	width: 90%;
+	float: right;
+}
+.bnrcontentmain::after {
+	left: -5%;
+	top: -6%;
+	height: 110%;
+	width: 160px;
+}
+.bnrcontentmain .custombtn {
+	margin: 40px 0 0 0;
+}
+.hdrmain {
+	padding: 20px 0px;
+}
+.custmiddleSec {
+	padding: 0 15px;
+}
+.custbox h3 {
+	font-size: 18px;
+	line-height: 26px;
+}
+.custbox p {
+	font-size: 13px;
+	line-height: 24px;
+}
+.custwhatwedo {
+	padding: 60px 0;
+}
+.experience-box {
+	margin: 50px 0 40px 0;
+}
+.youneedhelp {
+	padding: 50px 0;
+}
+.custform .form-control {
+	font-size: 12px;
+}
+.custftrCopyright p {
+	font-size: 14px;
+	line-height: normal;
+}
+}
+@media only screen and (min-width : 992px) and (max-width : 1199px) {
+.custftrTopLft h2 {
+	font-size: 40px;
+}
+.custWeAlways h2 {
+	font-size: 30px;
+}
+.custbox h3 {
+	font-size: 18px;
+}
+.bnrcontent {
+	padding: 160px 0;
+}
+.custWeAlways {
+	padding: 70px 0;
+}
+.learnHow {
+	padding: 80px 0;
+}
+.learnHowlftmain p {
+	font-size: 14px;
+	line-height: 22px;
+}
+.learnHowlftmain h4 {
+	font-size: 19px;
+}
+.custftrCopyright {
+	padding: 20px 0;
+}
+.custftrTopLft p {
+	font-size: 17px;
+	line-height: 29px;
+}
+.learnHowlft h2 {
+	font-size: 31px;
+}
+.logo a img {
+	width: 130px;
+}
+.custcallus {
+	margin: 5px 0 0 0;
+}
+.custcallus p {
+	font-size: 14px;
+	letter-spacing: 0;
+}
+.custnav .navbar-expand-lg .navbar-nav .nav-link {
+	padding: 0px 10px;
+}
+.custnav .navbar-nav {
+	margin: 0;
+}
+.hdrmain {
+	padding: 20px 25px;
+}
+.custmiddleSec {
+	padding: 0 40px;
+}
+.bnrcontent {
+	width: 90%;
+	float: right;
+}
+.bnrcontentmain h1 {
+	font-size: 48px;
+	line-height: 58px;
+}
+.bnrcontentmain .custombtn {
+	margin: 60px 0 0 0;
+}
+.bnrcontentmain::after {
+	height: 130%;
+}
+.custBnr {
+	height: auto;
+}
+.experience-box {
+	margin: 90px 0 0px 0;
+}
+.custwhatwedo {
+	padding: 50px 0;
+}
+.youneedhelp {
+	padding: 50px 0;
+}
+}
+@media only screen and (min-width : 1200px) and (max-width : 1400px) {
+.logo a img {
+	width: 150px;
+}
+.custcallus {
+	margin: 10px 0 0 0;
+}
+.custnav .navbar-nav {
+	margin: 0;
+}
+.hdrmain {
+	padding: 20px 25px;
+}
+.custmiddleSec {
+	padding: 0 40px;
+}
+.bnrcontent {
+	width: 90%;
+	float: right;
+}
+.bnrcontentmain h1 {
+	font-size: 48px;
+	line-height: 58px;
+}
+.bnrcontentmain .custombtn {
+	margin: 60px 0 0 0;
+}
+.bnrcontentmain::after {
+	height: 130%;
+}
+.custBnr {
+	height: auto;
+}
+.experience-box {
+	margin: 90px 0 0px 0;
+}
+.custwhatwedo {
+	padding: 50px 0;
+}
+.youneedhelp {
+	padding: 50px 0;
+}
+}
